@@ -535,7 +535,7 @@ global class User {
     global List<Contract> CreatedBy;
     global List<Contract> LastModifiedBy;
     global List<Contract> Owner;
-    global List<ContractChangeEvent> ActivatedBy;
+    global List<ContractChangeEvent> ActivatedBy1;
     global List<ContractChangeEvent> CompanySigned;
     global List<ContractChangeEvent> CreatedBy;
     global List<ContractChangeEvent> LastModifiedBy;
